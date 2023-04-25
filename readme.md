@@ -19,3 +19,5 @@ v - view all comments
 d - delete all comments
 q - quit the application
 
+#### This project was completed as part of the Dev Academy Aotearoa bootcamp for the 2023 Tohorā (remote) cohort.
+
